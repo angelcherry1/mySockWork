@@ -8,8 +8,9 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * author:lixiaobiao
- * date:On2019/11/6
+ * @author:lixiaobiao
+ * @date:On2019/11/6
+ *
  */
 public class BaseApplication extends Application {
     //创建一个Map集合，把activity加载到这个集合中
