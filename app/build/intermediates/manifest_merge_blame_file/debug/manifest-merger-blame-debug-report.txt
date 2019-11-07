@@ -21,7 +21,7 @@
 15    <!-- 允许程序访问有关GSM的网络信息 -->
 16    <!-- <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/> -->
 17    <application
-17-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:10:5-28:19
+17-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:10:5-29:19
 18        android:name="com.example.sockwork.BaseApplication"
 18-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:16:9-40
 19        android:allowBackup="true"
@@ -47,7 +47,7 @@
 30            android:value="8115000" />
 30-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:20:13-36
 31
-32        <activity android:name="com.example.sockwork.MainActivity" >
+32        <activity android:name="com.example.sockwork.HomeActivity" >
 32-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:21:9-27:20
 32-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:21:19-47
 33            <intent-filter>
@@ -61,6 +61,9 @@
 36-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:25:27-74
 37            </intent-filter>
 38        </activity>
-39    </application>
-40
-41</manifest>
+39        <activity android:name="com.example.sockwork.MainActivity" />
+39-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:28:9-49
+39-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:28:19-47
+40    </application>
+41
+42</manifest>

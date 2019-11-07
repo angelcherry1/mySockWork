@@ -46,19 +46,20 @@
             android:layout_width="1dp"
             android:layout_height="match_parent"
             android:layout_centerHorizontal="true"
-            android:background="@android:color/black"/>
+            android:background="@android:color/holo_orange_light"/>
         <!--        这个文本是用来绘制十字的横-->
         <TextView
             android:layout_width="match_parent"
             android:layout_height="1dp"
             android:layout_centerHorizontal="true"
-            android:background="@android:color/black"/>
+            android:background="@android:color/holo_orange_light"/>
 <!--        这个文本是用来显示“答错题数”的文本控件-->
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="答错题数"
             android:textSize="20sp"
+            android:textColor="@android:color/holo_green_light"
             android:layout_marginLeft="20sp"/>
         <!--        这个文本是用来显示“答错题数”的文本控件-->
         <TextView
@@ -66,6 +67,7 @@
             android:layout_height="wrap_content"
             android:text="掌握单词"
             android:textSize="20sp"
+            android:textColor="@android:color/holo_green_light"
             android:layout_alignParentRight="true"
             android:layout_marginRight="20dp"/>
         <TextView
@@ -75,6 +77,7 @@
             android:textSize="20sp"
             android:layout_marginTop="140dp"
             android:layout_marginLeft="20dp"
+            android:textColor="@android:color/holo_green_light"
             />
         <TextView
             android:layout_width="wrap_content"
@@ -84,6 +87,7 @@
             android:layout_marginTop="140dp"
             android:layout_alignParentRight="true"
             android:layout_marginRight="20dp"
+            android:textColor="@android:color/holo_green_light"
             />
         <TextView
             android:id="@+id/wrong_text"
@@ -101,6 +105,7 @@
             android:layout_marginLeft="70dp"
             android:layout_gravity="center_horizontal"
             android:text="词"
+            android:textColor="@android:color/holo_blue_light"
             android:textSize="20sp" />
         <TextView
             android:id="@+id/difficulty_text"
@@ -131,6 +136,7 @@
             android:layout_marginTop="205dp"
             android:layout_alignParentRight="true"
             android:layout_marginRight="25dp"
+            android:textColor="@android:color/holo_blue_light"
             />
         <TextView
             android:id="@+id/already_mastered"
@@ -141,7 +147,7 @@
             android:layout_alignParentRight="true"
             android:layout_marginRight="60dp"
             android:layout_marginTop="60dp"
-            android:textColor="@android:color/holo_blue_light"
+            android:textColor="@android:color/holo_green_dark"
             />
         <TextView
             android:layout_width="wrap_content"
@@ -150,6 +156,7 @@
             android:layout_marginRight="25dp"
             android:layout_alignParentRight="true"
             android:text="词"
+            android:textColor="@android:color/holo_blue_light"
             android:textSize="20sp" />
     </RelativeLayout>
 </LinearLayout>

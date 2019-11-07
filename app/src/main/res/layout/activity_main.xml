@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@mipmap/background"
+    android:background="@mipmap/backgroundtwo"
     android:orientation="vertical"
     tools:context=".MainActivity">
 <!--//显示时间的控件-->

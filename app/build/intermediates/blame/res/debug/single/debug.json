@@ -24,12 +24,12 @@
         "source": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\src\\main\\res\\mipmap-xhdpi\\vioce.png"
     },
     {
-        "merged": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
@@ -60,6 +60,10 @@
         "source": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
+        "merged": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_shaludushi.png.flat",
+        "source": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\src\\main\\res\\mipmap-xhdpi\\shaludushi.png"
+    },
+    {
         "merged": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\build\\intermediates\\res\\merged\\debug\\layout_set_fragment_layout.xml.flat",
         "source": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\src\\main\\res\\layout\\set_fragment_layout.xml"
     },
@@ -70,6 +74,10 @@
     {
         "merged": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ease_open_icon.png.flat",
         "source": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\src\\main\\res\\mipmap-xhdpi\\ease_open_icon.png"
+    },
+    {
+        "merged": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_akali_wps.png.flat",
+        "source": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\src\\main\\res\\mipmap-xhdpi\\akali_wps.png"
     },
     {
         "merged": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
@@ -112,6 +120,10 @@
         "source": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_backgroundtwo.jpg.flat",
+        "source": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\src\\main\\res\\mipmap-xhdpi\\backgroundtwo.jpg"
+    },
+    {
         "merged": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_background.png.flat",
         "source": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\src\\main\\res\\mipmap-xhdpi\\background.png"
     },
@@ -126,5 +138,9 @@
     {
         "merged": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_layout.xml.flat",
         "source": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\src\\main\\res\\layout\\home_layout.xml"
+    },
+    {
+        "merged": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_shaludushimm.jpg.flat",
+        "source": "D:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\src\\main\\res\\mipmap-xhdpi\\shaludushimm.jpg"
     }
 ]

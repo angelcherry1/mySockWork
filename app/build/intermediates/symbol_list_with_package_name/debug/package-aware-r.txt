@@ -943,13 +943,17 @@ layout set_fragment_layout
 layout study_fragment_layout
 layout support_simple_spinner_dropdown_item
 layout switch_button
+mipmap akali_wps
 mipmap background
+mipmap backgroundtwo
 mipmap ease_close_icon
 mipmap ease_open_icon
 mipmap fanhui
 mipmap ic_launcher
 mipmap ic_launcher_round
 mipmap icon
+mipmap shaludushi
+mipmap shaludushimm
 mipmap vioce
 string abc_action_bar_home_description
 string abc_action_bar_up_description
