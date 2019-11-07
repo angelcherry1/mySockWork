@@ -1,0 +1,66 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.sockwork"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml
+10    <!-- 应许解锁的权限 -->
+11    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+11-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:5:5-75
+11-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:5:22-72
+12    <!-- 允许网络权限 -->
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:7:5-66
+13-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:7:22-64
+14
+15    <!-- 允许程序访问有关GSM的网络信息 -->
+16    <!-- <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/> -->
+17    <application
+17-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:10:5-28:19
+18        android:name="com.example.sockwork.BaseApplication"
+18-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:16:9-40
+19        android:allowBackup="true"
+19-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:11:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a08b33acd3724f0d435da4ded82b1263\core-1.1.0\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/icon"
+22-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:12:9-36
+23        android:label="@string/app_name"
+23-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:13:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:14:9-54
+25        android:supportsRtl="true"
+25-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:15:9-35
+26        android:testOnly="true"
+27        android:theme="@style/AppTheme" >
+27-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:17:9-40
+28        <meta-data
+28-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:18:9-20:39
+29            android:name="com.google.android.gms.version"
+29-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:19:13-58
+30            android:value="8115000" />
+30-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:20:13-36
+31
+32        <activity android:name="com.example.sockwork.MainActivity" >
+32-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:21:9-27:20
+32-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:21:19-47
+33            <intent-filter>
+33-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:22:13-26:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:23:17-69
+34-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:23:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:25:17-77
+36-->D:\javalixiaobiao\Android\AndroidStudioProjects\SockWork\app\src\main\AndroidManifest.xml:25:27-74
+37            </intent-filter>
+38        </activity>
+39    </application>
+40
+41</manifest>

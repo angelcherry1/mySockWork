@@ -1,0 +1,4 @@
+#Wed Nov 06 23:14:20 CST 2019
+base.0=D\:\\javalixiaobiao\\Android\\AndroidStudioProjects\\SockWork\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

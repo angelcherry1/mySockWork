@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--用来加载关闭按钮控件-->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+<!--    用来显示开关按钮打开时的图片控件-->
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/iv_switch_open"
+        android:background="@mipmap/ease_open_icon"
+        android:visibility="visible"/>
+<!--    用于显示开关按钮关闭时的图片控件-->
+<ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/iv_switch_close"
+    android:background="@mipmap/ease_close_icon"
+    android:visibility="invisible"/>
+</FrameLayout>
